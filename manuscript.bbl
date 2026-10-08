@@ -1,0 +1,91 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bernhardt and Donnelly(2019)]{bernhardt2019}
+Thomas Bernhardt and Catherine Donnelly.
+\newblock Modern tontine with bequest: Innovation in pooled annuity products.
+\newblock \emph{Insurance: Mathematics and Economics}, 86:\penalty0 168--188,
+  2019.
+\newblock \doi{10.1016/j.insmatheco.2019.03.002}.
+\newblock URL \url{https://doi.org/10.1016/j.insmatheco.2019.03.002}.
+
+\bibitem[Butt et~al.(2026)Butt, Khemka, and Tan]{butt2026}
+Adam Butt, Gaurav Khemka, and Eugene Tan.
+\newblock Welfare impact of flexible payouts and adverse selection in tontines.
+\newblock \emph{Journal of Pension Economics \& Finance}, 2026.
+\newblock \doi{10.1017/S1474747226100201}.
+\newblock URL \url{https://doi.org/10.1017/S1474747226100201}.
+\newblock Published online 17 September 2026.
+
+\bibitem[Dagpunar(2021)]{dagpunar2021}
+John Dagpunar.
+\newblock Closed-form solutions for an explicit modern ideal tontine with
+  bequest motive.
+\newblock \emph{Insurance: Mathematics and Economics}, 100:\penalty0 261--273,
+  2021.
+\newblock \doi{10.1016/j.insmatheco.2021.05.008}.
+\newblock URL \url{https://doi.org/10.1016/j.insmatheco.2021.05.008}.
+
+\bibitem[Fogarty et~al.(2026)Fogarty, Loke, Marshall, and Thomann]{fogarty2026}
+Heather~N. Fogarty, Sooie-Hoe Loke, Nicholas~F. Marshall, and Enrique~A.
+  Thomann.
+\newblock Optimal risk-sharing rules in network-based decentralized insurance,
+  2026.
+\newblock URL \url{https://arxiv.org/abs/2602.05155}.
+\newblock arXiv:2602.05155, Version 3.
+
+\bibitem[Fullmer and Sabin(2019)]{fullmer2019}
+Richard~K. Fullmer and Michael~J. Sabin.
+\newblock Individual tontine accounts.
+\newblock \emph{Journal of Accounting and Finance}, 19\penalty0 (8):\penalty0
+  31--61, 2019.
+\newblock \doi{10.33423/jaf.v19i8.2615}.
+\newblock URL \url{https://doi.org/10.33423/jaf.v19i8.2615}.
+
+\bibitem[He et~al.(2023)He, Liang, and Wang]{he2023}
+Lin He, Zongxia Liang, and Sheng Wang.
+\newblock Modern tontine with transaction costs, 2023.
+\newblock URL \url{https://arxiv.org/abs/2209.09709}.
+\newblock arXiv:2209.09709, Version 2; first submitted in 2022.
+
+\bibitem[Sabin(2010)]{sabin2010}
+Michael~J. Sabin.
+\newblock Fair tontine annuity.
+\newblock Technical report, SSRN Working Paper, 2010.
+\newblock URL \url{https://ssrn.com/abstract=1579932}.
+
+\bibitem[Sabin(2011)]{sabin2011}
+Michael~J. Sabin.
+\newblock A fast bipartite algorithm for fair tontines.
+\newblock Technical report, SSRN Working Paper, 2011.
+\newblock URL \url{https://ssrn.com/abstract=1848737}.
+
+\bibitem[Weinert(2017)]{weinert2017}
+Jan-Hendrik Weinert.
+\newblock The fair surrender value of a tontine.
+\newblock ICIR Working Paper Series 26/17, Goethe University Frankfurt,
+  International Center for Insurance Regulation, 2017.
+\newblock URL \url{https://hdl.handle.net/10419/167323}.
+
+\bibitem[Weinert and Gr{\"u}ndl(2021)]{weinert2021}
+Jan-Hendrik Weinert and Helmut Gr{\"u}ndl.
+\newblock The modern tontine: An innovative instrument for longevity risk
+  management in an aging society.
+\newblock \emph{European Actuarial Journal}, 11:\penalty0 49--86, 2021.
+\newblock \doi{10.1007/s13385-020-00253-y}.
+\newblock URL \url{https://doi.org/10.1007/s13385-020-00253-y}.
+
+\bibitem[Zhou et~al.(2025)Zhou, Garces, Shen, Sherris, and Ziveyi]{zhou2025}
+Yuxin Zhou, Len Patrick~Dominic Garces, Yang Shen, Michael Sherris, and
+  Jonathan Ziveyi.
+\newblock Risk-sharing rules for mortality pooling products with stochastic and
+  correlated mortality rates.
+\newblock \emph{ASTIN Bulletin}, 55\penalty0 (3):\penalty0 585--614, 2025.
+\newblock \doi{10.1017/asb.2025.10064}.
+\newblock URL \url{https://doi.org/10.1017/asb.2025.10064}.
+
+\end{thebibliography}

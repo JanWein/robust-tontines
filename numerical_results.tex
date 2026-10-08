@@ -1,0 +1,39 @@
+\begin{table}[htbp]\centering\small
+\caption{Selected individual present-value ratios. All benefits, including estate, exit and terminal-account payments, are compared with capital at entry. Intervals quantify Monte Carlo uncertainty.}
+\begin{tabular}{llrrr}\toprule
+Scenario & Member & PV / capital & Standard error & 95\% interval\\\midrule
+Closed, nominal & 1 & 0.9967 & 0.0022 & $[0.9924;1.0010]$\\
+Closed, nominal & 2 & 0.9977 & 0.0034 & $[0.9910;1.0045]$\\
+Closed, nominal & 3 & 1.0003 & 0.0003 & $[0.9996;1.0009]$\\
+Closed, robust & 1 & 1.0000 & 0.0005 & $[0.9990;1.0010]$\\
+Closed, robust & 2 & 0.9989 & 0.0009 & $[0.9973;1.0006]$\\
+Closed, robust & 3 & 1.0001 & 0.0001 & $[0.9999;1.0003]$\\
+Open with exits & 1 & 0.9974 & 0.0017 & $[0.9941;1.0007]$\\
+Open with exits & 2 & 0.9983 & 0.0033 & $[0.9917;1.0048]$\\
+Open with exits & 3 & 0.9978 & 0.0046 & $[0.9889;1.0067]$\\
+Open, robust, error & 1 & 1.0026 & 0.0004 & $[1.0020;1.0033]$\\
+Open, robust, error & 2 & 1.0087 & 0.0007 & $[1.0072;1.0101]$\\
+Open, robust, error & 3 & 0.9995 & 0.0011 & $[0.9973;1.0018]$\\
+Singleton & 1 & 1.0000 & 0.0000 & $[1.0000;1.0000]$\\
+\bottomrule\end{tabular}\end{table}
+\begin{table}[htbp]\centering\small
+\caption{Payout rate after five years relative to its value at entry, conditional only on survival. These closed scenarios have no exits.}
+\begin{tabular}{llrrr}\toprule
+Scenario & Member & Expected rate & Standard error & Survivors\\\midrule
+Nominal & 1 & 1.0000 & 0.0004 & 9828\\
+Nominal & 2 & 0.9930 & 0.0010 & 9382\\
+Nominal & 3 & 0.7906 & 0.0002 & 7808\\
+Robust & 1 & 0.9878 & 0.0001 & 9839\\
+Robust & 2 & 0.9522 & 0.0003 & 9366\\
+Robust & 3 & 0.7865 & 0.0001 & 7868\\
+Singleton & 1 & 0.9392 & 0.0000 & 9421\\
+\bottomrule\end{tabular}\end{table}
+\begin{table}[htbp]\centering\small
+\caption{Misspecification and integrated tolerance for the first entry cohort in the open robust scenario. The relative error half-width is 20\%, and the relative annual error tolerance is 10\%.}
+\begin{tabular}{rrrr}\toprule
+Member & PV / capital minus 1 & Standard error & Expected bound / capital\\\midrule
+1 & 0.0026 & 0.0004 & 0.0027\\
+2 & 0.0087 & 0.0007 & 0.0095\\
+3 & -0.0005 & 0.0011 & 0.0240\\
+\bottomrule\end{tabular}\end{table}
+The maximum relative error in the R state checks was $2.17\cdot10^{-16}$, that in the 180 independent linear optimization checks was $3.72\cdot10^{-16}$. The maximum relative dynamic balance error was $1.68\cdot10^{-15}$. The immediate change in other accounts at entry and exit was exactly zero. The aggregate present-value ratio, consistently discounted to time zero, was one on every path in all scenarios, up to rounding error; its Monte Carlo standard error is therefore merely a numerical rounding measure. Individual members, in contrast, have stochastic individual present values.
