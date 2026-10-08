@@ -1,0 +1,6 @@
+"scenario","M","epv_ratio","se","lower","upper","max_relative_balance","max_other_account_change"
+"closed_nominal",10000,1,7.32447311044715e-19,1,1,4.19514673250216e-16,0
+"closed_robust",10000,1,7.66011733366854e-19,1,1,4.19514673250216e-16,0
+"open_exit_nominal",10000,1,1.61758095710457e-18,1,1,1.67805869300086e-15,0
+"open_exit_robust_error",10000,1,1.44417323140053e-18,1,1,1.04878668312554e-15,0
+"singleton",10000,1,3.47394782501145e-19,1,1,2.91038304567337e-16,0

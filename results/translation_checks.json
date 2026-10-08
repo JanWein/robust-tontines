@@ -1,0 +1,18 @@
+{
+  "numbered_math_environments_semantically_unchanged": 17,
+  "displayed_formulas_unchanged": 16,
+  "statement_and_proof_structure_unchanged": 26,
+  "labels_unchanged": 36,
+  "numeric_table_rows_unchanged": 23,
+  "typesetting_correction": "Restored a missing TeX backslash before middle| in the two conditional-expectation bars of equation eq:income; mathematical meaning retained.",
+  "unchanged_files_sha256": {
+    "results/python_versions.json": "58c7011c628f6f6443d0d7dc3895892ac27654f2b53448317fe760fb33b39ac1",
+    "results/lp_checks.csv": "481f3e715c37bedee9edd3233d5a6c1b09e47fc543551ab8b8c996c5dfc4aa15",
+    "results/sessionInfo.txt": "9c5f55caf241833ed596c629c98ee95f84ea3a4d923613c7c739992cefa7b2db",
+    "results/individual.csv": "d55c679aba983191c71c47901680cee07a5ae6b06682791ec9eb0f250b29780f",
+    "results/state_checks.csv": "133ced8f5342cb68a11e1673e16a6c29e1f0cdfe6dc431236d28a8caac571421",
+    "results/aggregate.csv": "700a59156303a487067ffe30881e4b7159cb118f1bb9814c27cd18e5dc18128b",
+    "robust_tontine.R": "559fe2bb72cb67b636a3a682b6faa454e407962d1262ea83f1d98e1a246cbef7",
+    "validate_frontier.py": "ca0ccd809cc0e8af5af6e59d4a61ed6ebc70d38bf39768f2f94538850e78cf92"
+  }
+}
